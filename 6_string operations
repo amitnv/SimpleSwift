@@ -1,0 +1,10 @@
+//string operations
+let str1 = "It's"
+let str2:Int = 2016
+let str3 = "already"
+//string concatenation
+let op1 = str1+" "+str3
+
+//string interpolation
+let op2 = "\(str1) \(str2) \(str3)"
+print(op2)
