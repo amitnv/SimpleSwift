@@ -1,2 +1,2 @@
-<h1>swift tutorial<h1>
+#Swift 2.1 tutorial
 <pre>     by Amit Vaidya</pre>
