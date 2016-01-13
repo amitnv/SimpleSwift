@@ -20,3 +20,24 @@
 #FAQ:How to code in SWIFT on windows/Linux without xcode
 <a href=https://www.youtube.com/watch?v=EpsPQULKLAE>FAQ before you proceed</a>
 <pre>    Swift is open source and hence people using windows/linux can also try coding in swift</pre>
+
+#Explicit type conversion
+<a href=https://www.youtube.com/watch?v=VdkDD_leuuU>Explicit type conversion</a>
+<pre>    Learn how to define datatypes explicitly in swift</pre>
+
+
+#Constants and some rules
+<a href=https://www.youtube.com/watch?v=VdkDD_leuuU>Constants</a>
+<pre>    Learn about constants and some rules which should be followed while writing swift code</pre>
+
+#String operations
+<a href=https://www.youtube.com/watch?v=XgFi37pgjH8>String operations</a>
+<pre>    Learn how to operate on strings in this video</pre>
+
+#Binary operators
+<a href=https://www.youtube.com/watch?v=or0xnDu7tSk>Binary operators</a>
+<pre>    Learn how to use binary operators in swift</pre>
+
+#Explicit type conversion
+<a href=https://www.youtube.com/watch?v=VdkDD_leuuU>Explicit type conversion</a>
+<pre>    Learn how to define datatypes explicitly in swift</pre>
