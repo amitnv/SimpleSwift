@@ -1,5 +1,5 @@
 #Swift 2.1 tutorial
-<pre>     by Amit Vaidya</pre>
+<pre>     by <a href=http://amitnv.github.io>Amit Vaidya</a></pre>
 
 #Introduction to Swift 2.1
 <a href=https://youtu.be/czt5dKnxirQ>WATCH NOW!</a>
