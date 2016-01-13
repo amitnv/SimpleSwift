@@ -3,7 +3,7 @@
 
 ##Introduction to Swift 2.1
 <a href=https://youtu.be/czt5dKnxirQ>WATCH NOW!</a>
-<pre>    Learn about 'swift',it's uses and all about the course</pre> 
+    Learn about `swift`,it's uses and all about the course 
 
 ##First program in Swift 2.1
 <a href=https://www.youtube.com/watch?v=Lyor-jpe5n0>WATCH NOW!</a>
