@@ -18,3 +18,9 @@ hotelDb["Third"] = "Mr.Tomy"
 //update or create new
 
 hotelDb.updateValue("Mr.Samy",forKey: "Sixth")
+
+//removing values 
+
+hotelDb["Fifth"] = nil
+
+hotelDb.removeValueForKey("Fourth")
